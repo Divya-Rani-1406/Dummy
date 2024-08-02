@@ -1,0 +1,51 @@
+{
+    "InsID": "11",
+    "Combi_Flag": "",
+    "MasterPolicyNo": "PRU/24/7000002789",
+    "partnerName": "HealthIndia",
+    "NomineeDOB": "31/12/1983",
+    "AuthKey": "Ci8wqJJbJSFH5bibd3m1ien+JFH7k74yokXsqEMB27U=",
+    "NomineeName": "XYZ ABC",
+    "FamilyDataModelParam": [{
+            "MobileNo": "9830428263",
+            "EmailID": "Sarona.Bhuiya@tataaig.com",
+            "TPAReferenceNo": "",
+            "AadharNo": "",
+            "Business_Type": "New Business",
+            "CallType": "1",
+            "TriggerFlag": "N",
+            "Product": "Medicare",
+            "Gender": "Female",
+            "InsuredId": "IDV20012184501037",
+            "PanNo": "",
+            "Name": "Sarona Bhuiya",
+            "TianNo": "",
+            "ProcessType": "1",
+            "sumInsured": "2500000",
+            "PreferredDateTime": "28/02/2024 12:00",
+            "DOB": "31/12/1986",
+            "srno": "1",
+            "PreferredLanguage": "English",
+            "relationship": "Self",
+            "AltMobileNo": ""
+        }
+    ]
+}
+[{
+        "ErrorID": "",
+        "ErrorCodes": "",
+        "ResponseStatus": true,
+        "ResponseMessage": "Success",
+        "MasterPolicyNo": "PRU/24/7000002789",
+        "APIResponseParam": [{
+                "ErrorID": "0",
+                "ErrorCodes": "",
+                "SubErrorCodes": "",
+                "ResponseStatus": true,
+                "ResponseMessage": "Success",
+                "TPAReferenceNo": "IDV20012184501037",
+                "InsuredId": "IDV20012184501037"
+            }
+        ]
+    }
+]
